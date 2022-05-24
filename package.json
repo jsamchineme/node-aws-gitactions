@@ -1,0 +1,22 @@
+{
+  "name": "aws-gitactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsamchineme/node-aws-gitactions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsamchineme/node-aws-gitactions/issues"
+  },
+  "homepage": "https://github.com/jsamchineme/node-aws-gitactions#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
